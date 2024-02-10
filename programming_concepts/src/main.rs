@@ -1,3 +1,3 @@
 fn main() {
-    println!("Test 2");
+    println!("sourcetree test");
 }
